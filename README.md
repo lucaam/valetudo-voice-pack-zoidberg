@@ -2,7 +2,7 @@
 
 [Valetudo](https://github.com/Hypfer/Valetudo) voice pack to let your vacuum robot speak and scream like Zoidberg.
 
-Works at least with `L10 Pro`, `Z10 Pro`, `W10`, and `D9`.
+Works at least with `L10 Pro`, `Z10 Pro`, `W10`, and `D9`, `Dreame 1C`.
 
 ## Installation
 
